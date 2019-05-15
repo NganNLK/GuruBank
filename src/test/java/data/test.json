@@ -1,0 +1,16 @@
+{
+  "url" : "http://demo.guru99.com/v4/",
+  "username": "mngr194803",
+  "password" : "buryhyp",
+  "name" : "ngan",
+  "address" : "Binh Thanh",
+  "dob" : "06/06/1991",
+  "city" : "Ho Chi Minh",
+  "state" : "None",
+  "pin": "123456",
+  "mobileNumber" : "0882312123",
+  "email" : "testforhome@email.com",
+  "deposit" : "10000",
+  "amount" : "3000",
+  "description" : "test deposit"
+}

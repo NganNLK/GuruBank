@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testngTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.329">
+  <properties />
+  
+  
+            <testcase name="addNote" time="5.329" classname="tests.CreateCustomer" />
+      
+</testsuite>
